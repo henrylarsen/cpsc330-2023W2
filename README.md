@@ -1,6 +1,6 @@
 # UBC CPSC 330: Applied Machine Learning (2023W2)
 
-## Introduction
+## Introduction -
 
 This is the course homepage for CPSC 330: Applied Machine Learning at the University of British Columbia. You are looking at the version for 2023W2 (Jan-Apr 2024). Some previous offerings:
 * [2020w1](https://github.com/UBC-CS/cpsc330/tree/v2.0) by Mike Gelbart
